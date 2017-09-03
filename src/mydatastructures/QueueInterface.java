@@ -1,3 +1,7 @@
+/**
+ * @author fritzgeraldsantos
+ */
+
 package mydatastructures;
 
 public interface QueueInterface<T> {

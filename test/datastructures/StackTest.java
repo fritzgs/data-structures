@@ -1,3 +1,7 @@
+/**
+ * @author fritzgeraldsantos
+ */
+
 package datastructures;
 
 import mydatastructures.Stack;

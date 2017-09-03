@@ -1,3 +1,7 @@
+/**
+ * @author fritzgeraldsantos
+ */
+
 package mydatastructures;
 
 import java.util.Arrays;

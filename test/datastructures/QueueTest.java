@@ -1,3 +1,7 @@
+/**
+ * @author fritzgeraldsantos
+ */
+
 package datastructures;
 
 import static org.junit.Assert.*;
