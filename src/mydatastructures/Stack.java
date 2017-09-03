@@ -56,7 +56,7 @@ public class Stack<T> implements StackInterface<T> {
 		}
 		else if(isFull())
 		{
-			doubleSize();
+			addSize();
 			top++;
 			stack[top] = element;
 		}
@@ -86,7 +86,7 @@ public class Stack<T> implements StackInterface<T> {
 		return size;
 	}
 	
-	public void doubleSize()
+	public void addSize()
 	{
 		size += 10;
 		stack = Arrays.copyOf(stack, size);
