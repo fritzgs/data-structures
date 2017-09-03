@@ -2,7 +2,7 @@
  * @author fritzgeraldsantos
  */
 
-package datastructures;
+package datastructurestest;
 
 import mydatastructures.Stack;
 

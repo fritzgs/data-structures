@@ -2,7 +2,7 @@
  * @author fritzgeraldsantos
  */
 
-package datastructures;
+package datastructurestest;
 
 import static org.junit.Assert.*;
 
