@@ -3,9 +3,16 @@
 ## Author
 
 Fritz Gerald Santos
-[GitHub](https://github.com/fritzgs)
+
+[GitHub](https://github.com/fritzgs) </br>
 [LinkedIn](https://linkedin.com/in/fritz-gerald-santos/)
 
 ## About 
 
 These are data structures I have create (with guidance from tutorials - referenced) in preparation for Data Structures and Algorithms module.
+
+### Contains 
+
+* Stack
+* Queues
+* LinkedList
